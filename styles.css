@@ -100,3 +100,13 @@ body {
 .completed {
   text-decoration: line-through;
 }
+.page-header {
+  font-size: 4em;
+  color: #d1d3d4;
+  font-family: "Poppins", sans-serif;
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
